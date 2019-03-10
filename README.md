@@ -1,8 +1,6 @@
-# ![AWESOME COMPILERS](img/awesome-compilers.png)
+This is a fork of [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) with some minor aesthetic adjustments to make it more boring. 
 
-A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Compilers, Interpreters and Runtimes. This list has a bias towards education.
-
-[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Compilers, Interpreters and Runtimes. This list has a bias towards education.
 
 -----------------------------------------
 
